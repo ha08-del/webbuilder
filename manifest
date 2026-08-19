@@ -1,0 +1,15 @@
+{
+  "name": "Website-Builder",
+  "short_name": "Site-Builder",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#14171C",
+  "theme_color": "#14171C",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
